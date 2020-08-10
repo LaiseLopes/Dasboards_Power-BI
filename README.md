@@ -1,1 +1,1 @@
-Análise em Power BI
+Análises em Power BI
