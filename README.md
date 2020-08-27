@@ -1,4 +1,4 @@
-<h1 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/social-default-image.png"></h1>  <h1 align="center">Python Projects</h1>
+<h1 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/social-default-image.png">  <h1 align="center">Python Projects</h1>
 
 
 <p align="center">Projects developed during studies in Power BI</p>
