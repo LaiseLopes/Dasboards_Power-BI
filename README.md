@@ -1,5 +1,6 @@
-<h1 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/social-default-image.png"><code>   </code>align="center">Power BI projects<code>
-</h1>
+<h1 <code><img height="20" src="https://github.com/LaiseLopes/LaiseLopes/blob/master/social-default-image.png">   align="center">Python Projects</h1>
+
+
 <p align="center">Projects developed during studies in Power BI</p>
 
 
