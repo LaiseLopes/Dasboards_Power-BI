@@ -2,7 +2,7 @@
 
 Project developed using Power BI, analyzing calls made in a Hospital
 
-For analysis, the Excel file: dados_hosp_Preenchido.xlsm attached to this folder was used.
+For analysis, the Excel file: dados_hosp_Preenchido.xlsx attached to this folder was used.
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Always under construction and adaptations...  🚧
