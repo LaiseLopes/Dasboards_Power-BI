@@ -1,9 +1,9 @@
 <h1 align="center">Analysis - Hospital Care</h1>
 
-Project developed using Power BI, analyzing calls made in a Hospital
+Project developed using Excel, analyzing calls made in a Hospital
 
 For analysis, the Excel file: dados_hosp_Preenchido.xlsx attached to this folder was used.
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Always under construction and adaptations...  🚧
-</h4>
+## Dashboard
+
+![gif](https://github.com/LaiseLopes/Power-BI/blob/master/Atendimento%20Hospitalar/AH_Gif.gif)
