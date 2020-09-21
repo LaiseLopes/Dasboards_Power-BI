@@ -4,6 +4,6 @@ Project developed using Power BI, analyzing the legal proceedings
 
 For analysis, the Excel file: reg_processos.xlsx attached to this folder was used.
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Always under construction and adaptations...  🚧
-</h4>
+## Dashboard
+
+![gif](https://github.com/LaiseLopes/Power-BI/blob/master/Processos/Processos_GIF.gif)
