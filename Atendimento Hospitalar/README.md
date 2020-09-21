@@ -6,4 +6,4 @@ For analysis, the Excel file: dados_hosp_Preenchido.xlsx attached to this folder
 
 ## Dashboard
 
-![gif](https://github.com/LaiseLopes/Power-BI/blob/master/Atendimento%20Hospitalar/AH_Gif.gif)
+![gif]align="center">(https://github.com/LaiseLopes/Power-BI/blob/master/Atendimento%20Hospitalar/AH_Gif.gif)
